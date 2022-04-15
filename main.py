@@ -10,8 +10,6 @@ driver = webdriver.Chrome("C:\Program Files (x86)\chromedriver.exe")
 videos = [
      'https://www.yourwebsiteishere.com',
      'https://www.yourwebsiteishere.com'
-   
-     
 ]
 
 
